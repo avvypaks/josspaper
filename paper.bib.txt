@@ -1,0 +1,35 @@
+@inproceedings{mckinney2010data,
+  title={Data structures for statistical computing in python},
+  author={McKinney, Wes and others},
+  booktitle={Proceedings of the 9th Python in Science Conference},
+  volume={445},
+  pages={51--56},
+  year={2010},
+  organization={Austin, TX}
+}
+
+@book{oliphant2006guide,
+  title={A guide to NumPy},
+  author={Oliphant, Travis E},
+  volume={1},
+  year={2006},
+  publisher={Trelgol Publishing USA}
+}
+
+@article{shipman2013tkinter,
+  title={Tkinter 8.4 reference: a GUI for Python},
+  author={Shipman, John W},
+  journal={New Mexico Tech Computer Center},
+  year={2013}
+}
+
+@article{yin2012genscalpel,
+  title={GenScalpel: an application for sequence retrieval and extraction from the GenBank flatfile},
+  author={Yin, Yong-Hua and Du, Lian-Ming and Yue, Bi-Song},
+  journal={Journal of Heredity},
+  volume={103},
+  number={6},
+  pages={908--911},
+  year={2012},
+  publisher={Oxford University Press US}
+}
