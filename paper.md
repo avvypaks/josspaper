@@ -17,12 +17,10 @@ authors:
     orcid: 0000-0002-0215-0120
     affiliation: 1
 affiliations:
- - name: Lyman Spitzer, Jr. Fellow, Princeton University
+ - name: Centre for DNA Taxonomy, Molecular Systematics Division, Zoological Survey of India, Kolkata
    index: 1
- - name: Institution Name
-   index: 2
  - name: Independent Researcher
-   index: 3
+   index: 2
 date: 13 August 2017
 bibliography: paper.bib
 ---
