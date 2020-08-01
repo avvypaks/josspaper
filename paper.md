@@ -29,7 +29,8 @@ In this data-driven era of next-generation sequencing, easy and fast tools of da
 # Statement of need 
 GenGrab includes two modules (I & II) in form of two separate python codes. The script can easily be run in anaconda distribution and also in standard Python with the installation of packages like Pandas [@Mckinney:2010] for data manipulation, NumPy [@Oliphant:2006] as pandas dependency and Tkinter [Shipman:2013] for GUI operations. 
 The module I assist users to obtain the required gene segments in positive and negative strands from both linear and circular genomes (Gene Extraction Module). In this module the user will have to upload two files when prompted, The fasta (.fas) file containing the gene sequence and the species name and the gene boundary table in csv format to get the gene annotation output in csv format. Module II helps in preparing genome datasets of a single gene from a number of species (Gene Separation Module). The user will have to combine the outputs for different species from the first module into one ‘Gene Separation input’ file. This file is used as an input and the user will have to provide the gene name to be extracted. The resultant output file containing the specified gene for all the species is to be saved in csv format.
-[Source Code](https://github.com/avvypaks/GenGrab)
+
+[Source Code] (https://github.com/avvypaks/GenGrab)
 # Acknowledgements
 The authors are thankful to the Director, Zoological Survey of India (ZSI), Ministry of Environment, Forests and Climate Change (MoEF&CC), Govt. of India for providing necessary facilities, constant support and encouragement throughout the study.
 # References
