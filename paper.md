@@ -25,6 +25,7 @@ affiliations:
    index: 3
 date: 13 August 2017
 bibliography: paper.bib
+---
 # Summary
 In this data-driven era of next-generation sequencing, easy and fast tools of data curation and genome dataset preparation are essential for comparative genomic analysis. The annotation of assembled genomes to define gene boundaries is done by a number of available software programs as required (https://molbiol-tools.ca/Genomics.htm#Genome annotation). A flawless genome annotation can be achieved by comparing the genes with previously assembled reference genomes of similar taxa in more than one software program. As yet the annotated genes can be downloaded directly only after submitting it to global database NCBI or software program like GenScalpel [@Yin:2012]. GenGrab is an open pure python toolkit for extraction of gene segments from genomes according to user defined gene boundary and filtration of specific genes from a number of species for genome dataset preparation. The script has the ability to become straightforward and user-friendly software to be used extensively in the field of whole genome sequencing.
 # Statement of need 
