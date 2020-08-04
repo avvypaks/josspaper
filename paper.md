@@ -19,7 +19,7 @@ authors:
 affiliations:
  - name: Centre for DNA Taxonomy, Molecular Systematics Division, Zoological Survey of India, Kolkata
    index: 1
- - name: Independent Researcher
+ - name: Mander Apartments, 194A, N.S.C. Bose Road, Kolkata
    index: 2
 date: 13 August 2017
 bibliography: paper.bib
